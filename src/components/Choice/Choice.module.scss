@@ -1,0 +1,15 @@
+.div{
+    width: 256px;
+    height: 256px;
+    padding: 10px;
+}
+.flexbox {
+    display: flex;
+    flex-direction: column;
+    background-color: #f8f8f8;
+    border: 2px solid transparent;
+    border-radius: 16px;
+}
+.text{
+    font-size: 20px;
+}
